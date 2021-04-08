@@ -60,8 +60,15 @@ The following is a list of steps and instructions on how to complete this guided
 
 ## tori
 
+
+### Tatiana Efimova
+
+### Crystal Csete
+
+
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
 
 ### Niki Dossett
 
 ### Matthew Justice
+
