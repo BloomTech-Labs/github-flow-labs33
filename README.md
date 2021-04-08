@@ -48,26 +48,29 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Alice Karsivar
+
+### Jamie Jenks
+
+### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
+
+### Matthew Justice
+
+### Gina Russell
+
 ### Hussain Ali
+
 ### Hairo Garcia
 
 ### Senih Aydin
 
 ### Peter Lofland
 
-### Gina Russell
-
 ## tori
-
 
 ### Tatiana Efimova
 
 ### Crystal Csete
 
-
-### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
-
 ### Niki Dossett
 
 ### Matthew Justice
-
