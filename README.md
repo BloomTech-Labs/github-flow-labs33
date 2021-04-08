@@ -47,4 +47,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 ### Alice Karsivar
+<<<<<<< HEAD
 ### Kevin Weatherwalks
+=======
+### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
+>>>>>>> f80c46bb8f13ce1f2d94e389f11c4157af6a89bf
