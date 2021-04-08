@@ -47,6 +47,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 ### Alice Karsivar
+
+### Ruben Andres Ramirez
+
 ### Ashley Brooks :)
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 ### Mike Galvin
@@ -78,4 +81,5 @@ The following is a list of steps and instructions on how to complete this guided
 ### Cameron Mirza
 
 ### Matthew Justice
+
 
