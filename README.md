@@ -48,11 +48,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Alice Karsivar
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### Justin Benz
-=======
-=======
+
 ### Hussain Ali
 ### Hairo Garcia
 
@@ -71,13 +68,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
->>>>>>> 071e64a4d4de50a6234527ae14e8f6f18169fe03
 
 ### Niki Dossett
 
 ### Matthew Justice
-<<<<<<< HEAD
->>>>>>> fd15b684b1f8c4081ffe43f7e2cfa74f02ee5b60
-=======
 
->>>>>>> 071e64a4d4de50a6234527ae14e8f6f18169fe03
