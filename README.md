@@ -47,30 +47,16 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 ### Alice Karsivar
-<<<<<<< HEAD
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 ### Gabby Vicas
-=======
 ### Hairo Garcia
-
 ### Senih Aydin
-
 ### Peter Lofland
-
 ### Gina Russell
-
 ## tori
-
-
 ### Tatiana Efimova
-
 ### Crystal Csete
-
-
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
-
 ### Niki Dossett
-
 ### Matthew Justice
 
->>>>>>> c81491e807b7a7c7b61509244a983fc5af4ba452
