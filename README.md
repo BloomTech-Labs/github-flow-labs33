@@ -48,15 +48,11 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Alice Karsivar
-
+### Leah Tabush
+### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 ### Peter Lofland
-
 ### Gina Russell
-
-
 ## tori
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
 ### Niki Dossett
-
 ### Matthew Justice
-
