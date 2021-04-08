@@ -48,6 +48,7 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Alice Karsivar
+### Hussain Ali
 ### Hairo Garcia
 
 ### Senih Aydin
@@ -58,8 +59,19 @@ The following is a list of steps and instructions on how to complete this guided
 
 ## tori
 
+<<<<<<< HEAD
 ### Paul Kim
+=======
+
+### Tatiana Efimova
+
+### Crystal Csete
+
+
+### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
+>>>>>>> 071e64a4d4de50a6234527ae14e8f6f18169fe03
 
 ### Niki Dossett
 
 ### Matthew Justice
+
