@@ -48,10 +48,19 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Alice Karsivar
+<<<<<<< HEAD
 ### Jamie Jenks
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
 ### Matthew Justice
+=======
+<<<<<<< HEAD
+### Gina Russell
+=======
+>>>>>>> 0575ba58299ed442fa75f2f8fe1233199850b2a2
 
+## tori
+### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
 ### Niki Dossett
 
 ### Matthew Justice
+>>>>>>> f64271ef93c77a379a892ca3aba6c9f9774c3645
