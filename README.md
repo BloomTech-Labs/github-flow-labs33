@@ -46,11 +46,13 @@ The following is a list of steps and instructions on how to complete this guided
     -   Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
 ### Bernie Durfee
-
 ### Alice Karsivar
-<<<<<<< HEAD
 ### Jacob Olness
-=======
+### Ashley Brooks :)
+### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
+### Mike Galvin
+### Kevin Weatherwalks
+### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 ### Hussain Ali
 ### Hairo Garcia
 
@@ -59,6 +61,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Peter Lofland
 
 ### Gina Russell
+
+### Brett Doffing
 
 ## tori
 
@@ -72,6 +76,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Niki Dossett
 
+### Cameron Mirza
+
 ### Matthew Justice
 
->>>>>>> 071e64a4d4de50a6234527ae14e8f6f18169fe03
