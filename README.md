@@ -49,6 +49,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsivar
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 ### Mike Galvin
+### Kevin Weatherwalks
+### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 ### Hussain Ali
 ### Hairo Garcia
 
@@ -57,6 +59,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Peter Lofland
 
 ### Gina Russell
+
+### Brett Doffing
 
 ## tori
 
