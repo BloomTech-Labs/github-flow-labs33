@@ -49,37 +49,19 @@ The following is a list of steps and instructions on how to complete this guided
 ### Iaroslav Mokroguz
 ### Bernie Durfee
 ### Alice Karsivar
-### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
-
 ### Ashley Brooks :)
-### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 ### Mike Galvin
-### Kevin Weatherwalks
-### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
+### Kevin Weatherwalks 
 ### Hussain Ali
 ### Hairo Garcia
-
 ### Senih Aydin
-
 ### Peter Lofland
-
 ### Gina Russell
-
 ### Brett Doffing
-
-## tori
-
-
+### tori
 ### Tatiana Efimova
-
 ### Crystal Csete
-
-
-### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
-
 ### Niki Dossett
-
 ### Cameron Mirza
-
 ### Matthew Justice
 
