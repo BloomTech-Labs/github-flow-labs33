@@ -47,6 +47,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 ### Alice Karsivar
+### Lindsay Deaton
 ### Ashley Brooks :)
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 ### Mike Galvin
@@ -79,3 +80,4 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Matthew Justice
 
+>>>>>>> 930586789bd58b9110fb05ec57efe5a2010cfbf7
