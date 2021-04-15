@@ -69,6 +69,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 ## tori
 
+<<<<<<< HEAD
+### Paul Kim
+=======
 
 ### Tatiana Efimova
 
@@ -76,6 +79,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻
+>>>>>>> 071e64a4d4de50a6234527ae14e8f6f18169fe03
 
 ### Niki Dossett
 
