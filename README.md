@@ -49,6 +49,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Iaroslav Mokroguz
 ### Bernie Durfee
 ### Alice Karsivar
+### Justin Benz
+
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 
 ### Ashley Brooks :)
