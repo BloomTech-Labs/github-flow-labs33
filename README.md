@@ -49,6 +49,9 @@ The following is a list of steps and instructions on how to complete this guided
 ### Iaroslav Mokroguz
 ### Bernie Durfee
 ### Alice Karsivar
+<<<<<<< HEAD
+### Bryce Lipscomb
+=======
 ### 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 👻 
 
 ### Ashley Brooks :)
@@ -83,3 +86,4 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Matthew Justice
 
+>>>>>>> 2afa1da46257b43cc97a0601d4611e4ad3fe7c5a
